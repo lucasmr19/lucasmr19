@@ -4,9 +4,9 @@ Welcome to my GitHub profile! Here, you'll find various projects and contributio
 
 ## About Me
 
-- 👀 Passionate about programming, data science/engineering and web development.
-- 💎 Currently delving into the realms of data science and machine learning.
-- 🧠 Open to collaborating on projects related to deep learning and neural networks.
+  👀 Passionate about programming, data science/engineering and web development.
+  💎 Currently delving into the realms of data science and machine learning.
+  🧠 Open to collaborating on projects related to deep learning and neural networks.
 
 ## Projects
 
