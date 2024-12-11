@@ -14,7 +14,7 @@ Here are some highlighted projects you'll find in my repositories:
 
 - **Optimization Library**: I'm developing a simple library using Python and his fundamental libraries like NumPy, SciPy, Matplotlib, etc. to showcase basic implementations of optimization algorithms.
 - **Data Science**: Teach the process involved in a data science project using Python. From choosing the database, cleaning, debugging, etc., to creating a prediction algorithm using machine learning.
-- **Signals and Systems**: Repository with numerous practical exercises solved and explained, serving as an introduction to signal processing using MATLAB.
+- **Machine Learning**: Repository with numerous practical exercises solved and explained on Jupyter Notebooks.
 
 Feel free to explore the repositories and check out the code. Don't hesitate to reach out if you have any questions, suggestions, or if you're interested in collaborating.
 
