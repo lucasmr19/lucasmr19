@@ -30,10 +30,4 @@ Some of the key projects available in my repositories include:
 
 Feel free to explore any of the repositories to see how I approach problems and structure my code.
 
-## Contact
-
-If you'd like to connect, discuss a project, or collaborate:
-
-- 🌐 LinkedIn: [Lucas Miralles](https://www.linkedin.com/in/lucas-miralles-b6b675362/)
-
-Thank you for visiting my profile 😃.
+Thank you for visiting my profile 😃!
