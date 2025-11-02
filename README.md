@@ -20,10 +20,10 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/lucasmiralles" target="_blank">
+  <a href="https://linkedin.com/in/lucas-miralles-ruiz" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/lucasmiralles" target="_blank">
+  <a href="https://kaggle.com/lucasmr19" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://instagram.com/_lukkas19" target="_blank">
