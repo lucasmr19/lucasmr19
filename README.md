@@ -14,7 +14,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1E90FF&size=23&center=true&vCenter=true&lines=Data+Scientist+%26+Engineer;AI+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects&color=1E90FF&size=23&center=true&vCenter=true&lines=Data+Scientist+%26+Engineer;AI+Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
@@ -56,14 +56,17 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center"> Languages, Tools & Databases</h2>
-
+<h2 align="center">Languages, Tools & Databases</h2>
 
 <p align="center">
   <!-- Languages & Tools (Row 1) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" height="45" alt="R" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" height="45" alt="R" title="R"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="45" height="45" alt="Prolog" title="Prolog"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="45" height="45" alt="Haskell" title="Haskell"/>
 </p>
 
 <p align="center">
@@ -89,46 +92,58 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
 </p>
 
 
+> 📝 My main programming languages are <b>Python</b> and <b>R</b>, but I have also done projects in the other languages and tools shown above.</small>
+
+
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center" style="color:#1E90FF;">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center" style="color:#1E90FF;"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/lucasmr19">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmr19&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+          <img align="center" 
+               src="https://github-readme-stats.vercel.app/api?username=lucasmr19&count_private=true&show_icons=true&theme=dark&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=000000" 
+               alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center" style="color:#1E90FF;"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/lucasmr19">
-          <img align="center" src="https://streak-stats.demolab.com?user=lucasmr19&theme=tokyonight" alt="Streak Stats" />
+          <img align="center" 
+               src="https://streak-stats.demolab.com?user=lucasmr19&theme=dark&stroke=1E90FF&background=000000&ring=1E90FF" 
+               alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <h3 align="center" style="color:#1E90FF;"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmr19&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img align="center" 
+             src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmr19&langs_count=8&layout=compact&theme=dark&title_color=1E90FF&text_color=1E90FF&bg_color=000000" 
+             alt="Top Languages" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center" style="color:#1E90FF;"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/lucasmr19">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=lucasmr19&limit=3&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
+          <img align="center" 
+               src="https://github-contributor-stats.vercel.app/api?username=lucasmr19&limit=3&theme=dark&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&background=000000&show_owner=true&combine_all_yearly_contributions=true" 
+               alt="Top Contributions" />
         </a>
       </p>
     </td>
   </tr>
 </table>
 <br />
+
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
