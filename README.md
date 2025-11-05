@@ -87,10 +87,16 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="45" height="45" alt="Hadoop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="45" height="45" alt="DuckDB" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="45" height="45" alt="Neo4j" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="45" height="45" alt="Cassandra" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" width="45" height="45" alt="Amazon DynamoDB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Gcp_bigquery.png" width="45" height="45" alt="Google BigQuery" />
 </p>
+
 
 
 > 📝 My main programming languages are <b>Python</b> and <b>R</b>, but I have also done projects in the other languages and tools shown above.</small>
