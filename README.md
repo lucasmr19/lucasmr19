@@ -74,6 +74,7 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Plotly-logomark-avatar.jpg" width="45" height="45" alt="Plotly" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="PowerBI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
