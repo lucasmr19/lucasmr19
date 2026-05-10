@@ -7,7 +7,7 @@
 
 <!-- Greeting -->
 <h3 align="center">
-  Hey there,I'm <a href="https://lucasmirallesruiz.com/" target="_blank">Lucas Miralles</a> 
+  Hey there,I'm Lucas Miralles
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h3>
@@ -27,9 +27,6 @@
   <a href="https://kaggle.com/lucasmr19" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_lukkas19" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://github.com/lucasmr19" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -40,7 +37,10 @@
   <img src="https://komarev.com/ghpvc/?username=lucasmr19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-## <img src="https://camo.githubusercontent.com/aed61247fb59e3b38d417a3f363e0734b5951cc3afb93948f35c4c0d2cc928d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" width="30"> *About Me*
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2RwejFmMXk4Y2MxNnRsb3l1ZjVpczc4M2FnMDZtOWIxbXdpM296ZiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/wzsDfnDLwNjjPlaQxR/giphy.gif" width="30"> About Me
+</h2>
+
 I'm **Lucas Miralles**, a **Data Scientist & Engineer** passionate about extracting meaningful insights from data and turning them into intelligent solutions.  
 
 My main interests include:
@@ -59,7 +59,7 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages, Tools & Databases</h2>
 
-<p align="center">
+<div align="center">
   <!-- Languages & Tools (Row 1) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" height="45" alt="R" title="R"/>
@@ -68,11 +68,11 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" title="HTML"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="45" height="45" alt="Prolog" title="Prolog"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="45" height="45" alt="Haskell" title="Haskell"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="Jupyter" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Plotly-logomark-avatar.jpg" width="45" height="45" alt="Plotly" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="PowerBI" />
@@ -80,9 +80,9 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <!-- Databases & Big Data (Row 2) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" height="45" alt="Apache Spark" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="45" height="45" alt="Hadoop" />
@@ -96,7 +96,7 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="45" height="45" alt="Cassandra" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" width="45" height="45" alt="Amazon DynamoDB" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Gcp_bigquery.png" width="45" height="45" alt="Google BigQuery" />
-</p>
+</div>
 
 
 
@@ -159,15 +159,3 @@ Currently, I’m focused on improving my expertise in **NLP**, **NN aplied to Ge
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmr19&bg_color=0d1117&color=1E90FF&line=4F9DDE&point=00FFFF&area=true&hide_border=false" border-radius="15">
 </div>
 <br />
-
-
-<!--Dynamic Quote card updated everyday--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Strive%20not%20to%20be%20a%20success%2C%20but%20rather%20to%20be%20of%20value.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
